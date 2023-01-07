@@ -1,0 +1,15 @@
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.csproj.AssemblyReference.cache
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.AssemblyInfoInputs.cache
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.AssemblyInfo.cs
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.csproj.CoreCompileInputs.cache
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.exe
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.deps.json
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.runtimeconfig.json
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.dll
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.pdb
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.dll
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\refint\ProjetoByteBank.dll
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.pdb
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.genruntimeconfig.cache
+C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ref\ProjetoByteBank.dll
