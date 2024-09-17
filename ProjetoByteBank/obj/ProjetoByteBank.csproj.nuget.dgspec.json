@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SharpCoders\\Projeto\\ProjetoByteBank\\ProjetoByteBank\\ProjetoByteBank.csproj": {}
+    "C:\\Users\\Thiago Maia\\Source\\Repos\\Bytebank\\ProjetoByteBank\\ProjetoByteBank.csproj": {}
   },
   "projects": {
-    "C:\\SharpCoders\\Projeto\\ProjetoByteBank\\ProjetoByteBank\\ProjetoByteBank.csproj": {
+    "C:\\Users\\Thiago Maia\\Source\\Repos\\Bytebank\\ProjetoByteBank\\ProjetoByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SharpCoders\\Projeto\\ProjetoByteBank\\ProjetoByteBank\\ProjetoByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\Thiago Maia\\Source\\Repos\\Bytebank\\ProjetoByteBank\\ProjetoByteBank.csproj",
         "projectName": "ProjetoByteBank",
-        "projectPath": "C:\\SharpCoders\\Projeto\\ProjetoByteBank\\ProjetoByteBank\\ProjetoByteBank.csproj",
-        "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-        "outputPath": "C:\\SharpCoders\\Projeto\\ProjetoByteBank\\ProjetoByteBank\\obj\\",
+        "projectPath": "C:\\Users\\Thiago Maia\\Source\\Repos\\Bytebank\\ProjetoByteBank\\ProjetoByteBank.csproj",
+        "packagesPath": "C:\\Users\\Thiago Maia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thiago Maia\\Source\\Repos\\Bytebank\\ProjetoByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Thiago Maia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

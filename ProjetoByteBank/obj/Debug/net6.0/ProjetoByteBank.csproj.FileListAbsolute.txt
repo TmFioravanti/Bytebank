@@ -13,3 +13,18 @@ C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\refint\P
 C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.pdb
 C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.genruntimeconfig.cache
 C:\SharpCoders\Projeto\ProjetoByteBank\ProjetoByteBank\obj\Debug\net6.0\ref\ProjetoByteBank.dll
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.exe
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.deps.json
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.runtimeconfig.json
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.dll
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\bin\Debug\net6.0\ProjetoByteBank.pdb
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.AssemblyInfoInputs.cache
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.AssemblyInfo.cs
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.sourcelink.json
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.dll
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\refint\ProjetoByteBank.dll
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.pdb
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\ProjetoByteBank.genruntimeconfig.cache
+C:\Users\Thiago Maia\Source\Repos\Bytebank\ProjetoByteBank\obj\Debug\net6.0\ref\ProjetoByteBank.dll
