@@ -22,13 +22,7 @@ namespace ProjetoByteBank
             Console.WriteLine("0 - Para sair do programa");
             Console.Write("Digite a opção desejada: ");
         }
-        static void ListarTodasAsContas(List<string> cpfs, List<string> titulares, List<double> saldos)
-        {
-            for (int i = 0; i < cpfs.Count; i++)
-            {
-                Console.WriteLine($"CPF = {cpfs[i]} | Titular = {titulares[i]} | Saldo = R${saldos[i]:F2}");
-            }
-        }
+        
 
         static void DetalhesDeUmUsuario(List<string> cpfs, List<string> titulares, List<double> saldos)
         {
@@ -93,10 +87,10 @@ namespace ProjetoByteBank
                             transactions.DeletarUsuario(cpfs, senhas);
                             break;
                         case 3:
-                            ListarTodasAsContas(cpfs, titulares, saldos);
+                            transactions.ListarTodasAsContas(cpfs, titulares, saldos);
                             break;
                         case 4:
-                            DetalhesDeUmUsuario(cpfs, titulares, saldos);
+                            transactions.DetalharUsuario(cpfs, senhas, titulares, saldos);
                             break;
                         case 5:
                             ValorNoBanco();

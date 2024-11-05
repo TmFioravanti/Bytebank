@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -81,8 +82,47 @@ namespace ProjetoByteBank.Controller
                 Console.Clear();
             
         }
+        public void ListarTodasAsContas(List<string> cpfs, List<string> titulares, List<double> saldos)
+        {
+            for (int i = 0; i < cpfs.Count; i++)
+            {
+                Console.WriteLine($"CPF = {cpfs[i]} | Titular = {titulares[i]} | Saldo = R${saldos[i]:F2}");
+            }
+        }
+        public void DetalharUsuario(List<string>cpfs, List<string> senhas, List<string> titulares, List<double> saldos)
+        {
+            Console.Write("Insira o CPF do usuário a ser detalhado: ");
+            string cpf = Console.ReadLine();
+            int index = cpfs.IndexOf(cpf);
+            if (index >= 0)
+            {
+                Console.WriteLine("Digite a senha para confirmar: ");
+                string senha = Console.ReadLine();
+                if (senhas[index] == senha)
+                {
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine($"Usuário encontrado:\nCPF: {cpfs[index]}\nNome: {titulares[index]} \nSaldo = R${saldos[index]:F2}");
+                    Console.ResetColor();
+                }
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Senha Incorreta, Não foi possível detalhar o usuário");
+                    Console.ResetColor();
+                }
+            }
+            
+             else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Usuário não encontrado.");
+                Console.ResetColor();
+            }
 
-
+            Console.WriteLine("Aperte enter para retornar ao menu principal");
+            Console.ReadLine();
+            Console.Clear();
+        }
     }
 
 }
